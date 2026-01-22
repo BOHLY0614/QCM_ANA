@@ -4,11 +4,11 @@
     "id": 1,
     "question": "L'administration par voie intraveineuse, caract\u00e9ristique :",
     "options": [
-      "a. voie parent\u00e9rale sans r\u00e9sorption",
-      "b. l'effet est le plus rapide",
-      "c. sont administr\u00e9 les solut\u00e9s irritants",
-      "d. sont administr\u00e9s les \u00e9mulsions",
-      "e. utile en urgences."
+      "voie parent\u00e9rale sans r\u00e9sorption",
+      "l'effet est le plus rapide",
+      "sont administr\u00e9 les solut\u00e9s irritants",
+      "sont administr\u00e9s les \u00e9mulsions",
+      "utile en urgences."
     ],
     "correct_answers": ["A", "B", "D", "E"]
   },
@@ -16,13 +16,7 @@
     "chapitre": 0,
     "id": 2,
     "question": "* La position d'aiguille, en administration donn\u00e9 par voie intradermique est :",
-    "options": [
-      "a. 20\u00b0",
-      "b. 90\u00b0",
-      "c. 30\u00b0",
-      "d. 10-15\u00b0",
-      "e. 45\u00b0."
-    ],
+    "options": ["20\u00b0", "90\u00b0", "30\u00b0", "10-15\u00b0", "45\u00b0."],
     "correct_answers": ["D"]
   },
   {
@@ -30,11 +24,11 @@
     "id": 3,
     "question": "Les inconv\u00e9nients de l'administration des m\u00e9dicaments corticost\u00e9ro\u00efdes par inhalation :",
     "options": [
-      "a. candidose pharyng\u00e9e",
-      "b. n'\u00e9vite pas l'effet du premier passage h\u00e9patique",
-      "c. infections mycosiques",
-      "d. ralentisse la croissance chez les enfants",
-      "e. ost\u00e9oporose (apr\u00e8s longues p\u00e9riodes du traitement)."
+      "candidose pharyng\u00e9e",
+      "n'\u00e9vite pas l'effet du premier passage h\u00e9patique",
+      "infections mycosiques",
+      "ralentisse la croissance chez les enfants",
+      "ost\u00e9oporose (apr\u00e8s longues p\u00e9riodes du traitement)."
     ],
     "correct_answers": ["A", "C", "D", "E"]
   },
@@ -43,11 +37,11 @@
     "id": 4,
     "question": "Les solut\u00e9s injectables administr\u00e9s par voie intramusculaires sont :",
     "options": [
-      "a. solut\u00e9s aqueux hypertoniques",
-      "b. solut\u00e9s aqueux isotoniques",
-      "c. suspensions aqueux",
-      "d. solut\u00e9s irritants",
-      "e. \u00e9mulsions."
+      "solut\u00e9s aqueux hypertoniques",
+      "solut\u00e9s aqueux isotoniques",
+      "suspensions aqueux",
+      "solut\u00e9s irritants",
+      "\u00e9mulsions."
     ],
     "correct_answers": ["B", "C", "E"]
   },
@@ -56,11 +50,11 @@
     "id": 5,
     "question": "La fixation du m\u00e9dicament aux prot\u00e9ines est :",
     "options": [
-      "a. r\u00e9versible",
-      "b. saturable",
-      "c. dynamique",
-      "d. sp\u00e9cifique",
-      "e. non-sp\u00e9cifique."
+      "r\u00e9versible",
+      "saturable",
+      "dynamique",
+      "sp\u00e9cifique",
+      "non-sp\u00e9cifique."
     ],
     "correct_answers": ["A", "B", "C", "E"]
   },
@@ -69,11 +63,11 @@
     "id": 6,
     "question": "* Indiquez la r\u00e9action m\u00e9tabolique la plus importante de phase I de la biotransformation des m\u00e9dicaments :",
     "options": [
-      "a. la r\u00e9duction",
-      "b. l'oxydation",
-      "c. l'alkylation",
-      "d. l'hydrolyse",
-      "e. la d\u00e9salkylation."
+      "la r\u00e9duction",
+      "l'oxydation",
+      "l'alkylation",
+      "l'hydrolyse",
+      "la d\u00e9salkylation."
     ],
     "correct_answers": ["B"]
   },
@@ -82,11 +76,11 @@
     "id": 7,
     "question": "Indiquez les effets secondaires toxiques des m\u00e9dicaments :",
     "options": [
-      "a. proprement parler",
-      "b. idiosyncrasiques",
-      "c. canc\u00e9rig\u00e8nes",
-      "d. mutag\u00e8nes",
-      "e. t\u00e9ratog\u00e8nes."
+      "proprement parler",
+      "idiosyncrasiques",
+      "canc\u00e9rig\u00e8nes",
+      "mutag\u00e8nes",
+      "t\u00e9ratog\u00e8nes."
     ],
     "correct_answers": ["A", "C", "D", "E"]
   },
@@ -95,11 +89,11 @@
     "id": 8,
     "question": "Les effets caract\u00e9ristiques de l'Atropine sont :",
     "options": [
-      "a. bradycardie",
-      "b. tachycardie",
-      "c. hypotension art\u00e9rielle",
-      "d. mydriase",
-      "e. bronchodilatateur."
+      "bradycardie",
+      "tachycardie",
+      "hypotension art\u00e9rielle",
+      "mydriase",
+      "bronchodilatateur."
     ],
     "correct_answers": ["B", "D", "E"]
   },
@@ -108,11 +102,11 @@
     "id": 9,
     "question": "Le traitement de l'intoxication avec Atropine inclue :",
     "options": [
-      "a. Scopolamine",
-      "b. Diaz\u00e9pam",
-      "c. Oxaz\u00e9pam",
-      "d. Propanth\u00e9line",
-      "e. Physostigmine, i.v."
+      "Scopolamine",
+      "Diaz\u00e9pam",
+      "Oxaz\u00e9pam",
+      "Propanth\u00e9line",
+      "Physostigmine, i.v."
     ],
     "correct_answers": ["B", "E"]
   },
@@ -121,11 +115,11 @@
     "id": 10,
     "question": "Sont m\u00e9dicaments sympathomim\u00e9tiques indirectes :",
     "options": [
-      "a. \u00c9ph\u00e9drine",
-      "b. Adr\u00e9naline",
-      "c. Noradr\u00e9naline",
-      "d. Pseudo\u00e9ph\u00e9drine",
-      "e. Dopamine."
+      "\u00c9ph\u00e9drine",
+      "Adr\u00e9naline",
+      "Noradr\u00e9naline",
+      "Pseudo\u00e9ph\u00e9drine",
+      "Dopamine."
     ],
     "correct_answers": ["A", "D"]
   },
@@ -134,11 +128,11 @@
     "id": 11,
     "question": "Adr\u00e9naline :",
     "options": [
-      "a. est une cat\u00e9cholamine endog\u00e8ne",
-      "b. a une action sympathomim\u00e9tique directe",
-      "c. effet vasoconstricteur (\u00e0 fortes doses, i.v.)",
-      "d. produit bronchoconstriction",
-      "e. diminue la contractilit\u00e9 du myocarde."
+      "est une cat\u00e9cholamine endog\u00e8ne",
+      "a une action sympathomim\u00e9tique directe",
+      "effet vasoconstricteur (\u00e0 fortes doses, i.v.)",
+      "produit bronchoconstriction",
+      "diminue la contractilit\u00e9 du myocarde."
     ],
     "correct_answers": ["A", "B", "C"]
   },
@@ -147,11 +141,11 @@
     "id": 12,
     "question": "Les suivantes sont utilisations th\u00e9rapeutiques de la Dobutamine :",
     "options": [
-      "a. l'insuffisance cardiaque aigue",
-      "b. choc cardiog\u00e9nique",
-      "c. l'insuffisance cardiaque chronique",
-      "d. la plupart des formes de choc",
-      "e. \u00e9tats hypotensives aigues."
+      "l'insuffisance cardiaque aigue",
+      "choc cardiog\u00e9nique",
+      "l'insuffisance cardiaque chronique",
+      "la plupart des formes de choc",
+      "\u00e9tats hypotensives aigues."
     ],
     "correct_answers": ["A", "C"]
   },
@@ -160,11 +154,11 @@
     "id": 13,
     "question": "Sont m\u00e9dicaments sympatholytiques directes alpha1-bloqueurs :",
     "options": [
-      "a. Prazosine",
-      "b. T\u00e9razosine",
-      "c. Ergotamine",
-      "d. Ergotoxine",
-      "e. Doxazosine."
+      "Prazosine",
+      "T\u00e9razosine",
+      "Ergotamine",
+      "Ergotoxine",
+      "Doxazosine."
     ],
     "correct_answers": ["A", "B", "E"]
   },
@@ -173,11 +167,11 @@
     "id": 14,
     "question": "* Indiquez l'alcalo\u00efde de l'ergot du seigle utilis\u00e9 contre l'h\u00e9morragie du post-partum :",
     "options": [
-      "a. Ergotamine",
-      "b. Ergom\u00e9trine",
-      "c. \u00c9ph\u00e9drine",
-      "d. Dihydroergotoxine",
-      "e. M\u00e9thysergide."
+      "Ergotamine",
+      "Ergom\u00e9trine",
+      "\u00c9ph\u00e9drine",
+      "Dihydroergotoxine",
+      "M\u00e9thysergide."
     ],
     "correct_answers": ["B"]
   },
@@ -186,11 +180,11 @@
     "id": 15,
     "question": "Indiquez les affirmations correctes concernant les bronchodilatateurs sympathomim\u00e9tiques \u03b22-s\u00e9lectifs :",
     "options": [
-      "a. \u00e0 dur\u00e9e d\u2019action courte (Salbutamol)",
-      "b. administration seulement par voie orale",
-      "c. \u00e0 dur\u00e9e d\u2019action longue : Salm\u00e9t\u00e9rol",
-      "d. administration par inhalation (n\u00e9buliseur-doseur)",
-      "e. utiles dans le traitement de l\u2019asthme."
+      "\u00e0 dur\u00e9e d\u2019action courte (Salbutamol)",
+      "administration seulement par voie orale",
+      "\u00e0 dur\u00e9e d\u2019action longue : Salm\u00e9t\u00e9rol",
+      "administration par inhalation (n\u00e9buliseur-doseur)",
+      "utiles dans le traitement de l\u2019asthme."
     ],
     "correct_answers": ["A", "C", "D", "E"]
   },
@@ -199,11 +193,11 @@
     "id": 16,
     "question": "Les suivants effets sont caract\u00e9ristiques pour la Th\u00e9ophylline :",
     "options": [
-      "a. stimulation du SNC",
-      "b. bronchodilatateur",
-      "c. anti-inflammatoire forte",
-      "d. stimulateur cardiaque",
-      "e. diur\u00e9tique intense."
+      "stimulation du SNC",
+      "bronchodilatateur",
+      "anti-inflammatoire forte",
+      "stimulateur cardiaque",
+      "diur\u00e9tique intense."
     ],
     "correct_answers": ["A", "B", "D"]
   },
@@ -212,11 +206,11 @@
     "id": 17,
     "question": "Sont antitussifs opio\u00efdes :",
     "options": [
-      "a. Cod\u00e9ine",
-      "b. Glaucine",
-      "c. Paxeladine",
-      "d. Clofedanole",
-      "e. Morphine."
+      "Cod\u00e9ine",
+      "Glaucine",
+      "Paxeladine",
+      "Clofedanole",
+      "Morphine."
     ],
     "correct_answers": ["A", "E"]
   },
@@ -225,11 +219,11 @@
     "id": 18,
     "question": "* L'antidote en cas de surdosage avec parac\u00e9tamol est :",
     "options": [
-      "a. Atropine",
-      "b. Physostigmine",
-      "c. Bromhexine",
-      "d. Ac\u00e9tylcyst\u00e9ine",
-      "e. Flumaz\u00e9nil."
+      "Atropine",
+      "Physostigmine",
+      "Bromhexine",
+      "Ac\u00e9tylcyst\u00e9ine",
+      "Flumaz\u00e9nil."
     ],
     "correct_answers": ["D"]
   },
@@ -238,11 +232,11 @@
     "id": 19,
     "question": "Sont tonicardiaque non-digitaliques :",
     "options": [
-      "a. Digoxine",
-      "b. Milrinone",
-      "c. Digitoxine",
-      "d. Dobutamine",
-      "e. Th\u00e9ophylline."
+      "Digoxine",
+      "Milrinone",
+      "Digitoxine",
+      "Dobutamine",
+      "Th\u00e9ophylline."
     ],
     "correct_answers": ["B", "D", "E"]
   },
@@ -251,11 +245,11 @@
     "id": 20,
     "question": "Les effets cardiaques de la Digoxine sont :",
     "options": [
-      "a. inotrope positif",
-      "b. dromotrope n\u00e9gatif",
-      "c. tonotrope n\u00e9gatif",
-      "d. chromotrope positif",
-      "e. batmotrope n\u00e9gatif."
+      "inotrope positif",
+      "dromotrope n\u00e9gatif",
+      "tonotrope n\u00e9gatif",
+      "chromotrope positif",
+      "batmotrope n\u00e9gatif."
     ],
     "correct_answers": ["A", "B", "E"]
   },
@@ -264,11 +258,11 @@
     "id": 21,
     "question": "* La voie d'administration de la Digoxine en urgences est :",
     "options": [
-      "a. perfusion i.v.",
-      "b. intraveineuse",
-      "c. intramusculaire",
-      "d. orale",
-      "e. intra-art\u00e9rielle."
+      "perfusion i.v.",
+      "intraveineuse",
+      "intramusculaire",
+      "orale",
+      "intra-art\u00e9rielle."
     ],
     "correct_answers": ["B"]
   },
@@ -277,11 +271,11 @@
     "id": 22,
     "question": "Les effets des glycosides cardiaques sur ECG sont :",
     "options": [
-      "a. d\u00e9pression du segment S-T",
-      "b. diminution de l'intervalle P-R",
-      "c. allongement de l'intervalle Q-T",
-      "d. inversion de l'onde P",
-      "e. inversion de l'onde T."
+      "d\u00e9pression du segment S-T",
+      "diminution de l'intervalle P-R",
+      "allongement de l'intervalle Q-T",
+      "inversion de l'onde P",
+      "inversion de l'onde T."
     ],
     "correct_answers": ["A", "B", "E"]
   },
@@ -290,11 +284,11 @@
     "id": 23,
     "question": "Sont m\u00e9dicaments anti-angineuses :",
     "options": [
-      "a. Trinitrine",
-      "b. Captopril",
-      "c. Isosorbite dinitrate",
-      "d. Nif\u00e9dipine",
-      "e. \u00c9nalapril."
+      "Trinitrine",
+      "Captopril",
+      "Isosorbite dinitrate",
+      "Nif\u00e9dipine",
+      "\u00c9nalapril."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -303,11 +297,11 @@
     "id": 24,
     "question": "Les voies d'administration de la Trinitrine dans la crise d'angor sont :",
     "options": [
-      "a. intraveineuse",
-      "b. sublinguale, spray",
-      "c. percutan\u00e9e",
-      "d. sublinguale, comprim\u00e9",
-      "e. orale."
+      "intraveineuse",
+      "sublinguale, spray",
+      "percutan\u00e9e",
+      "sublinguale, comprim\u00e9",
+      "orale."
     ],
     "correct_answers": ["B", "D"]
   },
@@ -316,11 +310,11 @@
     "id": 25,
     "question": "Les effets secondaires des nitrates organiques sont :",
     "options": [
-      "a. hypotension orthostatique",
-      "b. bradycardie",
-      "c. tol\u00e9rance de type progressive",
-      "d. c\u00e9phal\u00e9e pulsatile",
-      "e. agitation."
+      "hypotension orthostatique",
+      "bradycardie",
+      "tol\u00e9rance de type progressive",
+      "c\u00e9phal\u00e9e pulsatile",
+      "agitation."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -329,11 +323,11 @@
     "id": 26,
     "question": "Les inhibiteurs du canal calcique ont les effets suivants :",
     "options": [
-      "a. anti-angineuse",
-      "b. inotrope positif",
-      "c. antihypertenseur",
-      "d. anti-arythmique",
-      "e. contraction du muscle lisse vasculaire."
+      "anti-angineuse",
+      "inotrope positif",
+      "antihypertenseur",
+      "anti-arythmique",
+      "contraction du muscle lisse vasculaire."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -342,11 +336,11 @@
     "id": 27,
     "question": "* La Quinidine bloque :",
     "options": [
-      "a. le canal calcique",
-      "b. le canal sodique et potassique",
-      "c. le canal sodique",
-      "d. le canal potassique",
-      "e. le canal sodique et calcique."
+      "le canal calcique",
+      "le canal sodique et potassique",
+      "le canal sodique",
+      "le canal potassique",
+      "le canal sodique et calcique."
     ],
     "correct_answers": ["C"]
   },
@@ -355,11 +349,11 @@
     "id": 28,
     "question": "Sont des \u03b2-bloqueurs utilis\u00e9s dans les arythmies :",
     "options": [
-      "a. Propranolol",
-      "b. M\u00e9toprolol",
-      "c. V\u00e9rapamil",
-      "d. Nadolol",
-      "e. Pindolol."
+      "Propranolol",
+      "M\u00e9toprolol",
+      "V\u00e9rapamil",
+      "Nadolol",
+      "Pindolol."
     ],
     "correct_answers": ["A", "B", "D", "E"]
   },
@@ -368,11 +362,11 @@
     "id": 29,
     "question": "Sont affirmations correctes concernant la Lidoca\u00efne :",
     "options": [
-      "a. bloque les canaux potassiques",
-      "b. a un effet anti-arythmique",
-      "c. utile en arythmies auriculaires",
-      "d. administration intraveineuse",
-      "e. contre-indiqu\u00e9e en cas de bloc A-V."
+      "bloque les canaux potassiques",
+      "a un effet anti-arythmique",
+      "utile en arythmies auriculaires",
+      "administration intraveineuse",
+      "contre-indiqu\u00e9e en cas de bloc A-V."
     ],
     "correct_answers": ["B", "D", "E"]
   },
@@ -381,11 +375,11 @@
     "id": 30,
     "question": "* L'Amiodarone bloque les canaux :",
     "options": [
-      "a. seulement potassiques",
-      "b. seulement sodiques",
-      "c. seulement sodiques et calciques",
-      "d. seulement calciques",
-      "e. potassiques, sodiques et calciques."
+      "seulement potassiques",
+      "seulement sodiques",
+      "seulement sodiques et calciques",
+      "seulement calciques",
+      "potassiques, sodiques et calciques."
     ],
     "correct_answers": ["E"]
   },
@@ -394,11 +388,11 @@
     "id": 31,
     "question": "* Indiquez l'antihypertenseur utile en urgences hypertensives par perfusion i.v. :",
     "options": [
-      "a. Minoxidil",
-      "b. \u00c9nalapril",
-      "c. Nif\u00e9dipine",
-      "d. Nitroprussiate de sodium",
-      "e. Captopril."
+      "Minoxidil",
+      "\u00c9nalapril",
+      "Nif\u00e9dipine",
+      "Nitroprussiate de sodium",
+      "Captopril."
     ],
     "correct_answers": ["D"]
   },
@@ -407,11 +401,11 @@
     "id": 32,
     "question": "Les antihypertenseurs suivants peuvent \u00eatre administr\u00e9s en HTA + diab\u00e8te :",
     "options": [
-      "a. Propranolol",
-      "b. Captopril",
-      "c. \u00c9nalapril",
-      "d. M\u00e9toprolol",
-      "e. Lisinopril."
+      "Propranolol",
+      "Captopril",
+      "\u00c9nalapril",
+      "M\u00e9toprolol",
+      "Lisinopril."
     ],
     "correct_answers": ["B", "C", "D", "E"]
   },
@@ -420,11 +414,11 @@
     "id": 33,
     "question": "Les contre-indications d'emploie du Propranolol sont :",
     "options": [
-      "a. asthme",
-      "b. gastrite chronique",
-      "c. bradycardie",
-      "d. diab\u00e8te",
-      "e. tachycardie."
+      "asthme",
+      "gastrite chronique",
+      "bradycardie",
+      "diab\u00e8te",
+      "tachycardie."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -433,11 +427,11 @@
     "id": 34,
     "question": "Sont m\u00e9dicaments antihypertenseurs administr\u00e9s par voie i.v. :",
     "options": [
-      "a. Valsartan",
-      "b. Furos\u00e9mide",
-      "c. \u00c9nalapril",
-      "d. Diazoxide",
-      "e. Hydralazine."
+      "Valsartan",
+      "Furos\u00e9mide",
+      "\u00c9nalapril",
+      "Diazoxide",
+      "Hydralazine."
     ],
     "correct_answers": ["B", "D"]
   },
@@ -446,11 +440,11 @@
     "id": 35,
     "question": "Effets secondaires des inhibiteurs de l'enzyme de conversion de l'angiotensine :",
     "options": [
-      "a. toux s\u00e8che",
-      "b. anorexie",
-      "c. hTA",
-      "d. hyperkali\u00e9mie",
-      "e. palpitations."
+      "toux s\u00e8che",
+      "anorexie",
+      "hTA",
+      "hyperkali\u00e9mie",
+      "palpitations."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -459,11 +453,11 @@
     "id": 36,
     "question": "Les suivantes sont utilisation th\u00e9rapeutiques des pr\u00e9parations de fer :",
     "options": [
-      "a. carence en Vitamine B6",
-      "b. an\u00e9mie par carence en Vitamine B12",
-      "c. an\u00e9mie par carence en acide folique",
-      "d. les femmes enceintes",
-      "e. d\u00e9ficit d'absorption en fer."
+      "carence en Vitamine B6",
+      "an\u00e9mie par carence en Vitamine B12",
+      "an\u00e9mie par carence en acide folique",
+      "les femmes enceintes",
+      "d\u00e9ficit d'absorption en fer."
     ],
     "correct_answers": ["B", "D", "E"]
   },
@@ -472,11 +466,11 @@
     "id": 37,
     "question": "L'origine d'une carence en fer est due aux suivants facteurs :",
     "options": [
-      "a. ulc\u00e8re gastrique",
-      "b. alcoolisme",
-      "c. h\u00e9morragies",
-      "d. cancer gastrique",
-      "e. insuffisance h\u00e9patique."
+      "ulc\u00e8re gastrique",
+      "alcoolisme",
+      "h\u00e9morragies",
+      "cancer gastrique",
+      "insuffisance h\u00e9patique."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -485,11 +479,11 @@
     "id": 38,
     "question": "La Vitamine B12 :",
     "options": [
-      "a. est essentielle pour la synth\u00e8se d'ADN",
-      "b. source alimentaire : l\u00e9gumes verts",
-      "c. sa carence peut \u00eatre li\u00e9e \u00e0 une atrophie gastrique",
-      "d. utilis\u00e9e en an\u00e9mie pernicieuse",
-      "e. est administr\u00e9 par voie i.v."
+      "est essentielle pour la synth\u00e8se d'ADN",
+      "source alimentaire : l\u00e9gumes verts",
+      "sa carence peut \u00eatre li\u00e9e \u00e0 une atrophie gastrique",
+      "utilis\u00e9e en an\u00e9mie pernicieuse",
+      "est administr\u00e9 par voie i.v."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -498,11 +492,11 @@
     "id": 39,
     "question": "Les actions de l'h\u00e9parine sont :",
     "options": [
-      "a. fibrinolytique",
-      "b. antithrombinique",
-      "c. antiprothrombinique",
-      "d. antiagr\u00e9gant plaquettaire",
-      "e. antithromboplastinique."
+      "fibrinolytique",
+      "antithrombinique",
+      "antiprothrombinique",
+      "antiagr\u00e9gant plaquettaire",
+      "antithromboplastinique."
     ],
     "correct_answers": ["B", "C", "E"]
   },
@@ -511,11 +505,11 @@
     "id": 40,
     "question": "* L'effet ind\u00e9sirable majeur de l'Ac\u00e9nocoumarol est :",
     "options": [
-      "a. urticaire",
-      "b. diarrh\u00e9e",
-      "c. anorexie",
-      "d. saignements",
-      "e. naus\u00e9e."
+      "urticaire",
+      "diarrh\u00e9e",
+      "anorexie",
+      "saignements",
+      "naus\u00e9e."
     ],
     "correct_answers": ["D"]
   },
@@ -524,11 +518,11 @@
     "id": 41,
     "question": "Sont m\u00e9dicaments inhibiteurs de la fibrinolyse :",
     "options": [
-      "a. Streptokinase",
-      "b. Aprotinine",
-      "c. Alt\u00e9plase",
-      "d. Acide tranexamique",
-      "e. Ticlopidine."
+      "Streptokinase",
+      "Aprotinine",
+      "Alt\u00e9plase",
+      "Acide tranexamique",
+      "Ticlopidine."
     ],
     "correct_answers": ["B", "D"]
   },
@@ -537,11 +531,11 @@
     "id": 42,
     "question": "* Indiquez le m\u00e9dicament activateur indirect du plasminog\u00e8ne :",
     "options": [
-      "a. Urokinase",
-      "b. R\u00e9t\u00e9plase",
-      "c. Alt\u00e9plase",
-      "d. Streptokinase",
-      "e. T\u00e9nect\u00e9plase."
+      "Urokinase",
+      "R\u00e9t\u00e9plase",
+      "Alt\u00e9plase",
+      "Streptokinase",
+      "T\u00e9nect\u00e9plase."
     ],
     "correct_answers": ["D"]
   },
@@ -550,11 +544,11 @@
     "id": 43,
     "question": "* L'antiagr\u00e9gant plaquettaire qui inhibe la cyclooxyg\u00e9nase-1 est :",
     "options": [
-      "a. Dipyridamole",
-      "b. Ticlopidine",
-      "c. Acide ac\u00e9tylsalicylique",
-      "d. Clopidogrel",
-      "e. Abciximab."
+      "Dipyridamole",
+      "Ticlopidine",
+      "Acide ac\u00e9tylsalicylique",
+      "Clopidogrel",
+      "Abciximab."
     ],
     "correct_answers": ["C"]
   },
@@ -563,11 +557,11 @@
     "id": 44,
     "question": "Sont m\u00e9dicaments antiacides absorb\u00e9s (syst\u00e9miques) :",
     "options": [
-      "a. Bicarbonate de sodium",
-      "b. Hydroxyde d'aluminium",
-      "c. Phosphate de sodium",
-      "d. Phosphate d'aluminium",
-      "e. Hydroxyde de magn\u00e9sium."
+      "Bicarbonate de sodium",
+      "Hydroxyde d'aluminium",
+      "Phosphate de sodium",
+      "Phosphate d'aluminium",
+      "Hydroxyde de magn\u00e9sium."
     ],
     "correct_answers": ["A", "C"]
   },
@@ -576,11 +570,11 @@
     "id": 45,
     "question": "Bicarbonate de sodium, contre-indications en :",
     "options": [
-      "a. hypertension art\u00e9rielle",
-      "b. insuffisance cardiaque",
-      "c. grossesse",
-      "d. insuffisance r\u00e9nale",
-      "e. insuffisance h\u00e9patique."
+      "hypertension art\u00e9rielle",
+      "insuffisance cardiaque",
+      "grossesse",
+      "insuffisance r\u00e9nale",
+      "insuffisance h\u00e9patique."
     ],
     "correct_answers": ["A", "B", "D"]
   },
@@ -589,11 +583,11 @@
     "id": 46,
     "question": "Les antagonistes du r\u00e9cepteur H2, effets secondaires :",
     "options": [
-      "a. gyn\u00e9comastie",
-      "b. constipation",
-      "c. alcalose m\u00e9tabolique",
-      "d. confusion",
-      "e. fatigue."
+      "gyn\u00e9comastie",
+      "constipation",
+      "alcalose m\u00e9tabolique",
+      "confusion",
+      "fatigue."
     ],
     "correct_answers": ["A", "D", "E"]
   },
@@ -602,11 +596,11 @@
     "id": 47,
     "question": "* Le m\u00e9dicament le plus efficace pour le traitement du reflux gastro-oesophagien est :",
     "options": [
-      "a. Pirenz\u00e9pine",
-      "b. Om\u00e9prazole",
-      "c. Famotidine",
-      "d. Ranitidine",
-      "e. Nizatidine."
+      "Pirenz\u00e9pine",
+      "Om\u00e9prazole",
+      "Famotidine",
+      "Ranitidine",
+      "Nizatidine."
     ],
     "correct_answers": ["B"]
   },
@@ -615,11 +609,11 @@
     "id": 48,
     "question": "Sont des m\u00e9dicaments protecteurs de la muqueuse gastrique :",
     "options": [
-      "a. Sucralfate",
-      "b. Lansoprazole",
-      "c. Misoprostol",
-      "d. Om\u00e9prazole",
-      "e. Pantoprazole."
+      "Sucralfate",
+      "Lansoprazole",
+      "Misoprostol",
+      "Om\u00e9prazole",
+      "Pantoprazole."
     ],
     "correct_answers": ["A", "C"]
   },
@@ -628,11 +622,11 @@
     "id": 49,
     "question": "Le protocole th\u00e9rapeutique en quadruple th\u00e9rapie pour l'\u00e9limination d'Helicobacter pylori inclue :",
     "options": [
-      "a. Amoxicilline",
-      "b. Om\u00e9prazole",
-      "c. Famotidine",
-      "d. Sels de bismuth collo\u00efdaux",
-      "e. Clarithromycine."
+      "Amoxicilline",
+      "Om\u00e9prazole",
+      "Famotidine",
+      "Sels de bismuth collo\u00efdaux",
+      "Clarithromycine."
     ],
     "correct_answers": ["A", "B", "D", "E"]
   },
@@ -641,11 +635,11 @@
     "id": 50,
     "question": "* Indiquez l'anti\u00e9m\u00e9tique utilis\u00e9 en formulation d'un dispositif transdermique pour la pr\u00e9vention du mal de transport :",
     "options": [
-      "a. Ondans\u00e9tron",
-      "b. M\u00e9toclopramide",
-      "c. Tropis\u00e9tron",
-      "d. Scopolamine",
-      "e. Dolas\u00e9tron."
+      "Ondans\u00e9tron",
+      "M\u00e9toclopramide",
+      "Tropis\u00e9tron",
+      "Scopolamine",
+      "Dolas\u00e9tron."
     ],
     "correct_answers": ["D"]
   },
@@ -654,11 +648,11 @@
     "id": 51,
     "question": "Sont affirmations correctes concernant la P\u00e9nicilline V :",
     "options": [
-      "a. a une action bact\u00e9riostatique",
-      "b. inhibe la synth\u00e8se de la paroi bact\u00e9rienne",
-      "c. spectre d'action \u00e9troit",
-      "d. indiqu\u00e9e en angine streptococcique",
-      "e. doive \u00eatre administr\u00e9e au moins une heure avant les repas."
+      "a une action bact\u00e9riostatique",
+      "inhibe la synth\u00e8se de la paroi bact\u00e9rienne",
+      "spectre d'action \u00e9troit",
+      "indiqu\u00e9e en angine streptococcique",
+      "doive \u00eatre administr\u00e9e au moins une heure avant les repas."
     ],
     "correct_answers": ["B", "C", "D", "E"]
   },
@@ -667,11 +661,11 @@
     "id": 52,
     "question": "Benzathine-p\u00e9nicilline (Extencilline) :",
     "options": [
-      "a. r\u00e9alise concentrations prolong\u00e9es (jours)",
-      "b. r\u00e9alise concentrations durables (heures)",
-      "c. utile pour le traitement de la syphilis",
-      "d. utile pour le traitement de la m\u00e9ningite",
-      "e. douleur au lieu d'administration."
+      "r\u00e9alise concentrations prolong\u00e9es (jours)",
+      "r\u00e9alise concentrations durables (heures)",
+      "utile pour le traitement de la syphilis",
+      "utile pour le traitement de la m\u00e9ningite",
+      "douleur au lieu d'administration."
     ],
     "correct_answers": ["A", "C", "E"]
   },
@@ -680,11 +674,11 @@
     "id": 53,
     "question": "Indiquez les p\u00e9nicillines r\u00e9sistantes aux b\u00eata-lactamases :",
     "options": [
-      "a. Ampicilline",
-      "b. Amoxicilline",
-      "c. Oxacilline",
-      "d. Pip\u00e9racilline",
-      "e. M\u00e9thicilline."
+      "Ampicilline",
+      "Amoxicilline",
+      "Oxacilline",
+      "Pip\u00e9racilline",
+      "M\u00e9thicilline."
     ],
     "correct_answers": ["C", "E"]
   },
@@ -693,11 +687,11 @@
     "id": 54,
     "question": "* La p\u00e9nicilline suivante a la r\u00e9sorption diminu\u00e9e par alimentation :",
     "options": [
-      "a. P\u00e9nicilline G",
-      "b. Amoxicilline",
-      "c. Ticarcilline",
-      "d. Ampicilline",
-      "e. Pip\u00e9racilline."
+      "P\u00e9nicilline G",
+      "Amoxicilline",
+      "Ticarcilline",
+      "Ampicilline",
+      "Pip\u00e9racilline."
     ],
     "correct_answers": ["D"]
   },
@@ -706,11 +700,11 @@
     "id": 55,
     "question": "Sont utilisations th\u00e9rapeutiques de l'Ampicilline \u00e0 fortes doses :",
     "options": [
-      "a. m\u00e9ningites",
-      "b. pharyngite",
-      "c. endocardites",
-      "d. angine",
-      "e. sinusite."
+      "m\u00e9ningites",
+      "pharyngite",
+      "endocardites",
+      "angine",
+      "sinusite."
     ],
     "correct_answers": ["A", "C"]
   },
@@ -719,11 +713,11 @@
     "id": 56,
     "question": "* Indiquez la p\u00e9nicilline administr\u00e9e seulement par voie parent\u00e9rale :",
     "options": [
-      "a. Pip\u00e9racilline",
-      "b. Oxacilline",
-      "c. Ampicilline",
-      "d. P\u00e9nicilline V",
-      "e. Amoxicilline."
+      "Pip\u00e9racilline",
+      "Oxacilline",
+      "Ampicilline",
+      "P\u00e9nicilline V",
+      "Amoxicilline."
     ],
     "correct_answers": ["A"]
   },
@@ -732,11 +726,11 @@
     "id": 57,
     "question": "Ampicilline, effets secondaires :",
     "options": [
-      "a. naus\u00e9e",
-      "b. vomissements",
-      "c. constipation",
-      "d. colite pseudo-membraneuse",
-      "e. \u00e9ruptions cutan\u00e9es."
+      "naus\u00e9e",
+      "vomissements",
+      "constipation",
+      "colite pseudo-membraneuse",
+      "\u00e9ruptions cutan\u00e9es."
     ],
     "correct_answers": ["A", "B", "D", "E"]
   },
@@ -745,11 +739,11 @@
     "id": 58,
     "question": "Les c\u00e9phalosporines orales de deuxi\u00e8me g\u00e9n\u00e9ration, utilisation th\u00e9rapeutiques :",
     "options": [
-      "a. sinusites",
-      "b. pneumonies",
-      "c. otites",
-      "d. infections des voies respiratoires inf\u00e9rieures",
-      "e. py\u00e9lon\u00e9phrites."
+      "sinusites",
+      "pneumonies",
+      "otites",
+      "infections des voies respiratoires inf\u00e9rieures",
+      "py\u00e9lon\u00e9phrites."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -758,11 +752,11 @@
     "id": 59,
     "question": "Les aminosides de la deuxi\u00e8me g\u00e9n\u00e9ration sont :",
     "options": [
-      "a. Gentamycine, Tobramycine",
-      "b. bact\u00e9riostatiques",
-      "c. utiles en septic\u00e9mies, endocardites, en association avec une p\u00e9nicilline",
-      "d. administr\u00e9s par voie parent\u00e9rale",
-      "e. utiles en tuberculose."
+      "Gentamycine, Tobramycine",
+      "bact\u00e9riostatiques",
+      "utiles en septic\u00e9mies, endocardites, en association avec une p\u00e9nicilline",
+      "administr\u00e9s par voie parent\u00e9rale",
+      "utiles en tuberculose."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -771,11 +765,11 @@
     "id": 60,
     "question": "Clarithromycine est active contre :",
     "options": [
-      "a. Helicobacter Pylori",
-      "b. Toxoplasma gondii",
-      "c. Germes ana\u00e9robies",
-      "d. Mycobacterium avium",
-      "e. Salmonella."
+      "Helicobacter Pylori",
+      "Toxoplasma gondii",
+      "Germes ana\u00e9robies",
+      "Mycobacterium avium",
+      "Salmonella."
     ],
     "correct_answers": ["A", "B", "D"]
   },
@@ -784,11 +778,11 @@
     "id": 61,
     "question": "La Doxycycline a les caract\u00e9ristiques :",
     "options": [
-      "a. r\u00e9sorption orale influenc\u00e9e par les antiacides (avec Ca, Mg)",
-      "b. active contre les rickettsies, chlamydiae, Mycoplasmes",
-      "c. est administr\u00e9e toutes les 6 heures",
-      "d. est administr\u00e9e une ou deux fois par jour",
-      "e. peut \u00eatre administr\u00e9e par voie intraveineuse."
+      "r\u00e9sorption orale influenc\u00e9e par les antiacides (avec Ca, Mg)",
+      "active contre les rickettsies, chlamydiae, Mycoplasmes",
+      "est administr\u00e9e toutes les 6 heures",
+      "est administr\u00e9e une ou deux fois par jour",
+      "peut \u00eatre administr\u00e9e par voie intraveineuse."
     ],
     "correct_answers": ["B", "D", "E"]
   },
@@ -797,11 +791,11 @@
     "id": 62,
     "question": "* La voie d'administration pour l'Azithromycine est :",
     "options": [
-      "a. intraveineuse",
-      "b. intramusculaire",
-      "c. intra-art\u00e9rielle",
-      "d. orale",
-      "e. sous-cutan\u00e9e."
+      "intraveineuse",
+      "intramusculaire",
+      "intra-art\u00e9rielle",
+      "orale",
+      "sous-cutan\u00e9e."
     ],
     "correct_answers": ["D"]
   },
@@ -810,11 +804,11 @@
     "id": 63,
     "question": "Les fluoroquinolones sont utilis\u00e9s en :",
     "options": [
-      "a. pneumonies atypiques",
-      "b. infection gonococciques",
-      "c. la fi\u00e8vre typho\u00efde",
-      "d. infections de voie urinaires",
-      "e. infections streptococciques."
+      "pneumonies atypiques",
+      "infection gonococciques",
+      "la fi\u00e8vre typho\u00efde",
+      "infections de voie urinaires",
+      "infections streptococciques."
     ],
     "correct_answers": ["A", "B", "D"]
   },
@@ -823,11 +817,11 @@
     "id": 64,
     "question": "Sont substances antibact\u00e9riennes contre-indiqu\u00e9s en grossesse :",
     "options": [
-      "a. P\u00e9nicilline G",
-      "b. P\u00e9nicilline V",
-      "c. Chloramph\u00e9nicol",
-      "d. T\u00e9tracycline",
-      "e. M\u00e9tronidazole."
+      "P\u00e9nicilline G",
+      "P\u00e9nicilline V",
+      "Chloramph\u00e9nicol",
+      "T\u00e9tracycline",
+      "M\u00e9tronidazole."
     ],
     "correct_answers": ["C", "D", "E"]
   },
@@ -836,11 +830,11 @@
     "id": 65,
     "question": "Le Thiopental :",
     "options": [
-      "a. est un anesth\u00e9sique g\u00e9n\u00e9ral i.v.",
-      "b. facilite les actions inhibitoires du GABA",
-      "c. produit un forte rel\u00e2chement musculaire",
-      "d. recommandable pour les malades ayant un \u0153d\u00e8me c\u00e9r\u00e9bral",
-      "e. ne produit pas analg\u00e9sie."
+      "est un anesth\u00e9sique g\u00e9n\u00e9ral i.v.",
+      "facilite les actions inhibitoires du GABA",
+      "produit un forte rel\u00e2chement musculaire",
+      "recommandable pour les malades ayant un \u0153d\u00e8me c\u00e9r\u00e9bral",
+      "ne produit pas analg\u00e9sie."
     ],
     "correct_answers": ["A", "B", "D", "E"]
   },
@@ -849,11 +843,11 @@
     "id": 66,
     "question": "Proca\u00efne, caract\u00e9ristiques pharmacodynamiques :",
     "options": [
-      "a. anesth\u00e9sique local de contact",
-      "b. anesth\u00e9sique local de profondeur",
-      "c. vasoconstricteur",
-      "d. analg\u00e9sique efficace",
-      "e. vasodilatateur."
+      "anesth\u00e9sique local de contact",
+      "anesth\u00e9sique local de profondeur",
+      "vasoconstricteur",
+      "analg\u00e9sique efficace",
+      "vasodilatateur."
     ],
     "correct_answers": ["B", "D", "E"]
   },
@@ -862,11 +856,11 @@
     "id": 67,
     "question": "Les contre-indications de la morphine sont :",
     "options": [
-      "a. enfants moins de 3 ans",
-      "b. HTA",
-      "c. l'asthme bronchique",
-      "d. grossesse",
-      "e. insuffisance r\u00e9nale."
+      "enfants moins de 3 ans",
+      "HTA",
+      "l'asthme bronchique",
+      "grossesse",
+      "insuffisance r\u00e9nale."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -875,11 +869,11 @@
     "id": 68,
     "question": "La M\u00e9thadone, utilisations th\u00e9rapeutiques :",
     "options": [
-      "a. douleurs s\u00e9v\u00e8res",
-      "b. douleurs persistantes",
-      "c. douleurs chroniques",
-      "d. en pr\u00e9anesth\u00e9sie",
-      "e. dans la d\u00e9sintoxication des toxicomanes \u00e0 la morphine."
+      "douleurs s\u00e9v\u00e8res",
+      "douleurs persistantes",
+      "douleurs chroniques",
+      "en pr\u00e9anesth\u00e9sie",
+      "dans la d\u00e9sintoxication des toxicomanes \u00e0 la morphine."
     ],
     "correct_answers": ["A", "D", "E"]
   },
@@ -888,11 +882,11 @@
     "id": 69,
     "question": "* Indiquez un effet secondaire sp\u00e9cifique pour le Tramadol :",
     "options": [
-      "a. constipation",
-      "b. prurit",
-      "c. urticaire",
-      "d. r\u00e9tention urinaire",
-      "e. sensations vertigineuses."
+      "constipation",
+      "prurit",
+      "urticaire",
+      "r\u00e9tention urinaire",
+      "sensations vertigineuses."
     ],
     "correct_answers": ["E"]
   },
@@ -901,11 +895,11 @@
     "id": 70,
     "question": "Le M\u00e9tamizole :",
     "options": [
-      "a. anti-inflammatoire",
-      "b. est le plus puissant des analg\u00e9siques-antipyr\u00e9tiques",
-      "c. peut produire agranulocytose (tr\u00e8s rare)",
-      "d. h\u00e9patotoxique",
-      "e. peut produire un ulc\u00e8re."
+      "anti-inflammatoire",
+      "est le plus puissant des analg\u00e9siques-antipyr\u00e9tiques",
+      "peut produire agranulocytose (tr\u00e8s rare)",
+      "h\u00e9patotoxique",
+      "peut produire un ulc\u00e8re."
     ],
     "correct_answers": ["B", "C"]
   },
@@ -914,11 +908,11 @@
     "id": 71,
     "question": "Sont AINS inhibiteurs pr\u00e9f\u00e9rentiels de la cyclooxyg\u00e9nase 2 :",
     "options": [
-      "a. Diclof\u00e9nac",
-      "b. M\u00e9loxicam",
-      "c. Ibuprof\u00e8ne",
-      "d. Nim\u00e9sulide",
-      "e. K\u00e9toprof\u00e8ne."
+      "Diclof\u00e9nac",
+      "M\u00e9loxicam",
+      "Ibuprof\u00e8ne",
+      "Nim\u00e9sulide",
+      "K\u00e9toprof\u00e8ne."
     ],
     "correct_answers": ["B", "D"]
   },
@@ -927,11 +921,11 @@
     "id": 72,
     "question": "Contre-indications des AINS :",
     "options": [
-      "a. ulc\u00e8re gastro-duod\u00e9nal",
-      "b. hTA",
-      "c. grossesse",
-      "d. allaitement",
-      "e. enfant moins de 15 ans (l'Aspirine)."
+      "ulc\u00e8re gastro-duod\u00e9nal",
+      "hTA",
+      "grossesse",
+      "allaitement",
+      "enfant moins de 15 ans (l'Aspirine)."
     ],
     "correct_answers": ["A", "C", "D", "E"]
   },
@@ -940,11 +934,11 @@
     "id": 73,
     "question": "* L'antidote en cas de surdosage avec benzodiaz\u00e9pines est :",
     "options": [
-      "a. Nalorphine",
-      "b. Naloxone",
-      "c. Ac\u00e9tylcist\u00e9ine",
-      "d. Flumaz\u00e9nil",
-      "e. Flunitraz\u00e9pam."
+      "Nalorphine",
+      "Naloxone",
+      "Ac\u00e9tylcist\u00e9ine",
+      "Flumaz\u00e9nil",
+      "Flunitraz\u00e9pam."
     ],
     "correct_answers": ["D"]
   },
@@ -953,11 +947,11 @@
     "id": 74,
     "question": "S\u00e9datifs-hypnotiques barbituriques :",
     "options": [
-      "a. effet hypnotique",
-      "b. effet anxiolytique",
-      "c. effet anticonvulsive (Ph\u00e9nobarbital)",
-      "d. effet neuroleptique",
-      "e. sont inducteurs enzymatiques."
+      "effet hypnotique",
+      "effet anxiolytique",
+      "effet anticonvulsive (Ph\u00e9nobarbital)",
+      "effet neuroleptique",
+      "sont inducteurs enzymatiques."
     ],
     "correct_answers": ["A", "C", "E"]
   },
@@ -966,11 +960,11 @@
     "id": 75,
     "question": "* La benzodiaz\u00e9pine anxiolytique pr\u00e9f\u00e9r\u00e9e pour les patients \u00e2g\u00e9s est :",
     "options": [
-      "a. Diaz\u00e9pam",
-      "b. Bromaz\u00e9pam",
-      "c. Oxaz\u00e9pam",
-      "d. M\u00e9daz\u00e9pam",
-      "e. Alprazolam."
+      "Diaz\u00e9pam",
+      "Bromaz\u00e9pam",
+      "Oxaz\u00e9pam",
+      "M\u00e9daz\u00e9pam",
+      "Alprazolam."
     ],
     "correct_answers": ["C"]
   },
@@ -979,11 +973,11 @@
     "id": 76,
     "question": "* Indiquez lequel est l'anxiolytique d\u00e9pourvu d'un effet myorelaxant :",
     "options": [
-      "a. Oxaz\u00e9pam",
-      "b. Bromaz\u00e9pam",
-      "c. Diaz\u00e9pam",
-      "d. Midazolam",
-      "e. Buspirone."
+      "Oxaz\u00e9pam",
+      "Bromaz\u00e9pam",
+      "Diaz\u00e9pam",
+      "Midazolam",
+      "Buspirone."
     ],
     "correct_answers": ["E"]
   },
@@ -992,11 +986,11 @@
     "id": 77,
     "question": "Le syndrome parkinsonien est absent pour les neuroleptiques suivants :",
     "options": [
-      "a. Risp\u00e9ridone",
-      "b. Olanzapine",
-      "c. Halop\u00e9ridol",
-      "d. Clozapine",
-      "e. Fluph\u00e9nazine."
+      "Risp\u00e9ridone",
+      "Olanzapine",
+      "Halop\u00e9ridol",
+      "Clozapine",
+      "Fluph\u00e9nazine."
     ],
     "correct_answers": ["A", "B", "D"]
   },
@@ -1005,11 +999,11 @@
     "id": 78,
     "question": "Effets secondaires des antid\u00e9presseurs imipraminiques sont :",
     "options": [
-      "a. somnolence",
-      "b. constipation",
-      "c. retard mictionnel",
-      "d. HTA",
-      "e. mydriase."
+      "somnolence",
+      "constipation",
+      "retard mictionnel",
+      "HTA",
+      "mydriase."
     ],
     "correct_answers": ["A", "B", "C"]
   },
@@ -1018,11 +1012,11 @@
     "id": 79,
     "question": "Sont anti\u00e9pileptiques :",
     "options": [
-      "a. Ph\u00e9nyto\u00efne",
-      "b. Ph\u00e9nobarbital",
-      "c. Cyclobarbital",
-      "d. Carbamaz\u00e9pine",
-      "e. Acide valpro\u00efque."
+      "Ph\u00e9nyto\u00efne",
+      "Ph\u00e9nobarbital",
+      "Cyclobarbital",
+      "Carbamaz\u00e9pine",
+      "Acide valpro\u00efque."
     ],
     "correct_answers": ["A", "B", "D", "E"]
   },
@@ -1031,11 +1025,11 @@
     "id": 80,
     "question": "L\u00e9vodopa :",
     "options": [
-      "a. la dopamine est son pr\u00e9curseur",
-      "b. peut produire myosis",
-      "c. utile en maladie de Parkinson",
-      "d. peut produire la fluctuation de l'effet (le ph\u00e9nom\u00e8ne on-off)",
-      "e. contre-indication, psychoses."
+      "la dopamine est son pr\u00e9curseur",
+      "peut produire myosis",
+      "utile en maladie de Parkinson",
+      "peut produire la fluctuation de l'effet (le ph\u00e9nom\u00e8ne on-off)",
+      "contre-indication, psychoses."
     ],
     "correct_answers": ["C", "D", "E"]
   },
@@ -1044,11 +1038,11 @@
     "id": 81,
     "question": "Effets endocriniens de l'insuline sur le foie :",
     "options": [
-      "a. inhibe la glycog\u00e9nolyse",
-      "b. diminue la synth\u00e8se des triglyc\u00e9rides",
-      "c. inhibe la transformation des acides amin\u00e9s en acides c\u00e9toniques",
-      "d. inhibe la transformation des acides amine en glucose",
-      "e. diminue la formation des lipoprot\u00e9ines (VLDL)."
+      "inhibe la glycog\u00e9nolyse",
+      "diminue la synth\u00e8se des triglyc\u00e9rides",
+      "inhibe la transformation des acides amin\u00e9s en acides c\u00e9toniques",
+      "inhibe la transformation des acides amine en glucose",
+      "diminue la formation des lipoprot\u00e9ines (VLDL)."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -1057,11 +1051,11 @@
     "id": 82,
     "question": "* Le seul type d'insuline administr\u00e9e par voie intraveineuse est :",
     "options": [
-      "a. d'action rapide et dur\u00e9e courte d'effet",
-      "b. d'action courte, avec une survenue rapide de l'effet",
-      "c. d'action interm\u00e9diaire",
-      "d. d'action lente",
-      "e. d'action ultra lente."
+      "d'action rapide et dur\u00e9e courte d'effet",
+      "d'action courte, avec une survenue rapide de l'effet",
+      "d'action interm\u00e9diaire",
+      "d'action lente",
+      "d'action ultra lente."
     ],
     "correct_answers": ["A"]
   },
@@ -1070,11 +1064,11 @@
     "id": 83,
     "question": "Indiquez les affirmations correctes concernant l'utilisation de l'insuline :",
     "options": [
-      "a. en diab\u00e8te gestationnel",
-      "b. en coma diab\u00e9tique, i.v.",
-      "c. sous forme de stylos injectables portables",
-      "d. la forme retard, le soir",
-      "e. la forme retard, le matin."
+      "en diab\u00e8te gestationnel",
+      "en coma diab\u00e9tique, i.v.",
+      "sous forme de stylos injectables portables",
+      "la forme retard, le soir",
+      "la forme retard, le matin."
     ],
     "correct_answers": ["A", "B", "C", "D"]
   },
@@ -1083,11 +1077,11 @@
     "id": 84,
     "question": "Indiquez les antidiab\u00e9tiques oraux associ\u00e9s avec Metformine dans le m\u00eame comprim\u00e9 :",
     "options": [
-      "a. Glibenclamide",
-      "b. Rosiglitazone",
-      "c. Pioglitazone",
-      "d. Tolbutamide",
-      "e. Glipizide."
+      "Glibenclamide",
+      "Rosiglitazone",
+      "Pioglitazone",
+      "Tolbutamide",
+      "Glipizide."
     ],
     "correct_answers": ["A", "B"]
   },
@@ -1096,11 +1090,11 @@
     "id": 85,
     "question": "Sont glucocortico\u00efdes avec une dur\u00e9e d'action courte ou moyenne :",
     "options": [
-      "a. Prednisone",
-      "b. Bud\u00e9sonide",
-      "c. Hydrocortisone",
-      "d. B\u00e9tam\u00e9thasone",
-      "e. Dexam\u00e9thasone."
+      "Prednisone",
+      "Bud\u00e9sonide",
+      "Hydrocortisone",
+      "B\u00e9tam\u00e9thasone",
+      "Dexam\u00e9thasone."
     ],
     "correct_answers": ["A", "C"]
   },
@@ -1109,11 +1103,11 @@
     "id": 86,
     "question": "Sont effets des glucocortico\u00efdes de type min\u00e9ralo-cortico\u00efdes :",
     "options": [
-      "a. r\u00e9tention du sodium",
-      "b. \u00e9limination du chlore",
-      "c. r\u00e9tention d'eau",
-      "d. \u00e9limination urinaire augment\u00e9e de potassium",
-      "e. r\u00e9tention du potassium."
+      "r\u00e9tention du sodium",
+      "\u00e9limination du chlore",
+      "r\u00e9tention d'eau",
+      "\u00e9limination urinaire augment\u00e9e de potassium",
+      "r\u00e9tention du potassium."
     ],
     "correct_answers": ["A", "C"]
   },
@@ -1122,11 +1116,11 @@
     "id": 87,
     "question": "Effets secondaires tardives de glucocortico\u00efdes :",
     "options": [
-      "a. ulc\u00e8re gastro-duod\u00e9nal",
-      "b. ob\u00e9sit\u00e9 du tronc",
-      "c. hypoglyc\u00e9mie",
-      "d. visage arrondi",
-      "e. boulimie."
+      "ulc\u00e8re gastro-duod\u00e9nal",
+      "ob\u00e9sit\u00e9 du tronc",
+      "hypoglyc\u00e9mie",
+      "visage arrondi",
+      "boulimie."
     ],
     "correct_answers": ["B", "D"]
   },
@@ -1135,11 +1129,11 @@
     "id": 88,
     "question": "Sont contre-indications des hormones thyro\u00efdiennes :",
     "options": [
-      "a. hyperthyro\u00efdie",
-      "b. insuffisance r\u00e9nale",
-      "c. insuffisance cardiaque d\u00e9compens\u00e9e",
-      "d. angine de poitrine d\u00e9compens\u00e9e",
-      "e. HTA."
+      "hyperthyro\u00efdie",
+      "insuffisance r\u00e9nale",
+      "insuffisance cardiaque d\u00e9compens\u00e9e",
+      "angine de poitrine d\u00e9compens\u00e9e",
+      "HTA."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -1148,11 +1142,11 @@
     "id": 89,
     "question": "Sont m\u00e9dicaments antithyro\u00efdiens :",
     "options": [
-      "a. Thionamides",
-      "b. Liothyronine",
-      "c. \u03b2-bloqueurs",
-      "d. Iodures",
-      "e. L\u00e9vothyroxine."
+      "Thionamides",
+      "Liothyronine",
+      "\u03b2-bloqueurs",
+      "Iodures",
+      "L\u00e9vothyroxine."
     ],
     "correct_answers": ["A", "C", "D"]
   },
@@ -1161,11 +1155,11 @@
     "id": 90,
     "question": "Indiquez les agents actifs contre le virus VIH :",
     "options": [
-      "a. Foscarnet",
-      "b. Zidovudine",
-      "c. Zalcitabine",
-      "d. Aciclovir",
-      "e. Ganciclovir."
+      "Foscarnet",
+      "Zidovudine",
+      "Zalcitabine",
+      "Aciclovir",
+      "Ganciclovir."
     ],
     "correct_answers": ["B", "C"]
   },
@@ -1174,11 +1168,11 @@
     "id": 91,
     "question": "Les interf\u00e9rons, pharmacodynamie :",
     "options": [
-      "a. effet antivirale en h\u00e9patite B chronique",
-      "b. effet antivirale en h\u00e9patite C aigu\u00eb",
-      "c. immunomodulateur",
-      "d. immunod\u00e9presseur",
-      "e. antiprolif\u00e9rative."
+      "effet antivirale en h\u00e9patite B chronique",
+      "effet antivirale en h\u00e9patite C aigu\u00eb",
+      "immunomodulateur",
+      "immunod\u00e9presseur",
+      "antiprolif\u00e9rative."
     ],
     "correct_answers": ["A", "B", "C", "E"]
   },
@@ -1187,11 +1181,11 @@
     "id": 92,
     "question": "* L'agent antifungique avec le plus large spectre d'action est :",
     "options": [
-      "a. Gris\u00e9ofulvine",
-      "b. K\u00e9toconazole",
-      "c. \u00c9conazole",
-      "d. Amphot\u00e9ricine B",
-      "e. Clotrimazole."
+      "Gris\u00e9ofulvine",
+      "K\u00e9toconazole",
+      "\u00c9conazole",
+      "Amphot\u00e9ricine B",
+      "Clotrimazole."
     ],
     "correct_answers": ["D"]
   },
@@ -1200,11 +1194,11 @@
     "id": 93,
     "question": "Indiquez les antifongiques utilis\u00e9s en aspergillose :",
     "options": [
-      "a. Voriconazole",
-      "b. Oxiconazole",
-      "c. Nystatine",
-      "d. Itraconazole",
-      "e. Gris\u00e9ofulvine."
+      "Voriconazole",
+      "Oxiconazole",
+      "Nystatine",
+      "Itraconazole",
+      "Gris\u00e9ofulvine."
     ],
     "correct_answers": ["A", "D"]
   },
@@ -1213,11 +1207,11 @@
     "id": 94,
     "question": "Agents actifs contre les n\u00e9matodes intestinales sont :",
     "options": [
-      "a. Pip\u00e9razine",
-      "b. Niclosamide",
-      "c. Di\u00e9thylcarbamazine",
-      "d. Albendazole",
-      "e. Thiabendazole."
+      "Pip\u00e9razine",
+      "Niclosamide",
+      "Di\u00e9thylcarbamazine",
+      "Albendazole",
+      "Thiabendazole."
     ],
     "correct_answers": ["A", "D", "E"]
   },
@@ -1226,11 +1220,11 @@
     "id": 95,
     "question": "* Indiquez l'agent utilis\u00e9 en tuberculose lequel produit une coloration en rouge/orange des fluides corporels :",
     "options": [
-      "a. \u00c9thambutol",
-      "b. Rifampicine",
-      "c. Isoniazide",
-      "d. Pyrazinamide",
-      "e. Amikacine."
+      "\u00c9thambutol",
+      "Rifampicine",
+      "Isoniazide",
+      "Pyrazinamide",
+      "Amikacine."
     ],
     "correct_answers": ["B"]
   },
@@ -1239,11 +1233,11 @@
     "id": 96,
     "question": "Pyrazinamide :",
     "options": [
-      "a. action bact\u00e9riostatique contre le M. tuberculosis",
-      "b. action bact\u00e9ricide contre le M. tuberculosis",
-      "c. administration orale",
-      "d. de premier choix en association avec autres agents antituberculeux",
-      "e. h\u00e9patotoxique."
+      "action bact\u00e9riostatique contre le M. tuberculosis",
+      "action bact\u00e9ricide contre le M. tuberculosis",
+      "administration orale",
+      "de premier choix en association avec autres agents antituberculeux",
+      "h\u00e9patotoxique."
     ],
     "correct_answers": ["B", "C", "D", "E"]
   },
@@ -1252,11 +1246,11 @@
     "id": 97,
     "question": "Les m\u00e9dicaments anticanc\u00e9reux peuvent avoir les suivants effets secondaires communs :",
     "options": [
-      "a. ototoxiques",
-      "b. mutag\u00e8nes",
-      "c. carcinog\u00e8nes",
-      "d. n\u00e9phrotoxiques",
-      "e. t\u00e9ratog\u00e8nes."
+      "ototoxiques",
+      "mutag\u00e8nes",
+      "carcinog\u00e8nes",
+      "n\u00e9phrotoxiques",
+      "t\u00e9ratog\u00e8nes."
     ],
     "correct_answers": ["B", "C", "E"]
   },
@@ -1265,11 +1259,11 @@
     "id": 98,
     "question": "Sont cytostatiques qui agit comme une poison du fuseau mitotique :",
     "options": [
-      "a. Paclitaxel",
-      "b. Tamoxif\u00e8ne",
-      "c. Vincristine",
-      "d. M\u00e9thotrexate",
-      "e. Cytarabine."
+      "Paclitaxel",
+      "Tamoxif\u00e8ne",
+      "Vincristine",
+      "M\u00e9thotrexate",
+      "Cytarabine."
     ],
     "correct_answers": ["A", "C"]
   },
@@ -1278,11 +1272,11 @@
     "id": 99,
     "question": "M\u00e9thotrexate :",
     "options": [
-      "a. analogue structural de l'acide folique",
-      "b. effet secondaire, sympt\u00f4mes de la m\u00e9nopause",
-      "c. son effet peut \u00eatre inhib\u00e9 en pr\u00e9sence de l'acide folique",
-      "d. utile en cancer du testicule",
-      "e. utile en cancer du poumon."
+      "analogue structural de l'acide folique",
+      "effet secondaire, sympt\u00f4mes de la m\u00e9nopause",
+      "son effet peut \u00eatre inhib\u00e9 en pr\u00e9sence de l'acide folique",
+      "utile en cancer du testicule",
+      "utile en cancer du poumon."
     ],
     "correct_answers": ["A", "C", "E"]
   },
@@ -1291,11 +1285,11 @@
     "id": 100,
     "question": "* L'agent cytostatique utilis\u00e9 en particulier contre le cancer du testicule est :",
     "options": [
-      "a. Cisplatine",
-      "b. Ifosfamide",
-      "c. Cyclophosphamide",
-      "d. Melphalan",
-      "e. Vincristine."
+      "Cisplatine",
+      "Ifosfamide",
+      "Cyclophosphamide",
+      "Melphalan",
+      "Vincristine."
     ],
     "correct_answers": ["A"]
   }
