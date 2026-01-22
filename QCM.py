@@ -10,6 +10,9 @@ import struct
 import tempfile  # Pour créer le fichier son temporaire
 import backend
 
+import platform  
+import subprocess 
+
 LARGE_FONT = ("Arial", 16)
 TITLE_FONT = ("Arial", 24, "bold")
 BUTTON_FONT = ("Arial", 14)
@@ -29,13 +32,36 @@ class QCMApp(tk.Tk):
         except Exception:
             pass 
 
-        self.state('zoomed')
+        if platform.system() == "Windows":
+            self.state('zoomed')
+        elif platform.system() == "Darwin":  # Darwin = macOS
+            # Option 1 : Maximiser (ne couvre pas la barre de menu)
+            width = self.winfo_screenwidth()
+            height = self.winfo_screenheight()
+            self.geometry(f"{width}x{height}+0+0")
+            # Option 2 : Vrai plein écran (couvre tout)
+            # self.attributes('-fullscreen', True) 
+        else:
+            self.attributes('-zoomed', True) # Pour Linux souvent
+
+
         self.title("Quiz QCM")
 
         self.base_dir = os.path.dirname(os.path.abspath(__file__))
 
         try:
-            self.iconbitmap(os.path.join(self.base_dir, "Assets", "GF.ico"))
+            icon_path = os.path.join(self.base_dir, "Assets", "GF.ico")
+            # Sur Mac, iconbitmap peut échouer avec des .ico
+            if platform.system() == "Darwin":
+                try:
+                    # Idéalement, convertissez votre icône en .png et utilisez :
+                    # img = tk.PhotoImage(file=os.path.join(self.base_dir, "Assets", "GF.png"))
+                    # self.iconphoto(True, img)
+                    pass # On ignore l'icône sur Mac pour l'instant pour éviter le crash
+                except:
+                    pass
+            else:
+                self.iconbitmap(icon_path)
         except Exception as e:
             print("Icône non trouvée:", e)
  
@@ -125,43 +151,55 @@ class QCMApp(tk.Tk):
             return file_path
 
     def play_looping_sound(self, file_path):
-        if os.name != 'nt': return 
-        import winsound
-        
         # Nettoyage préventif
         self.stop_sound()
 
         target_path = file_path
         
-        # Si on veut changer le volume, on passe par un fichier temporaire
+        # Gestion du volume (Code existant conservé)
         if self.volume_level < 0.99:
             target_path = self.create_volume_adjusted_file(file_path, self.volume_level)
-            # Si un fichier temp a été créé (chemin différent de l'original)
             if target_path != file_path:
                 self.temp_sound_file = target_path
 
         self.current_sound_path = target_path
         
         try:
-            # Lecture depuis le DISQUE (Stable)
-            winsound.PlaySound(target_path, winsound.SND_LOOP | winsound.SND_ASYNC | winsound.SND_FILENAME)
+            if platform.system() == "Windows":
+                import winsound
+                winsound.PlaySound(target_path, winsound.SND_LOOP | winsound.SND_ASYNC | winsound.SND_FILENAME)
+            
+            elif platform.system() == "Darwin": # macOS
+                # Utilisation de la commande native 'afplay' via subprocess
+                # Note: afplay ne boucle pas nativement indéfiniment sans script, 
+                # ici on le lance une fois de manière asynchrone.
+                self.mac_sound_process = subprocess.Popen(['afplay', target_path])
+                
         except Exception as e:
             print(f"Erreur lecture son: {e}")
 
     def stop_sound(self):
-        if os.name == 'nt':
-            import winsound
+        # Arrêt pour Windows
+        if platform.system() == "Windows":
             try:
-                # 1. On arrête le son
+                import winsound
                 winsound.PlaySound(None, winsound.SND_PURGE)
-                
-                # 2. On supprime le fichier temporaire s'il existe
-                if self.temp_sound_file and os.path.exists(self.temp_sound_file):
-                    try:
-                        os.remove(self.temp_sound_file)
-                    except: pass # Parfois Windows verrouille le fichier un court instant
-                    self.temp_sound_file = None
             except: pass
+            
+        # Arrêt pour Mac
+        elif platform.system() == "Darwin":
+            if hasattr(self, 'mac_sound_process') and self.mac_sound_process:
+                try:
+                    self.mac_sound_process.terminate()
+                    self.mac_sound_process = None
+                except: pass
+
+        # Nettoyage fichier temporaire (Code existant conservé)
+        if self.temp_sound_file and os.path.exists(self.temp_sound_file):
+            try:
+                os.remove(self.temp_sound_file)
+            except: pass 
+            self.temp_sound_file = None
 
     # --- THEME & WIDGETS ---
     def apply_theme(self):
