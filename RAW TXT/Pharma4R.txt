@@ -1,0 +1,100 @@
+A, B, D, E
+D
+A, C, D, E
+B, C, E
+A, B, C, E
+D
+A, C, D, E
+B, D, E
+B, E
+A, D
+A, B, C
+A, C
+A, B, E
+E
+A
+A, B, D
+A, E
+D
+B, D, E
+A, B, E
+B
+A, B, E
+A, C, D
+B, D
+A, C, D
+A, C, D
+C
+A, B, D, E
+B, D, E
+E
+D
+B, C, D, E
+A, C, D
+B, D
+A, C, D
+B, D, E
+A, C, D
+A, C, D
+B, C, E
+D
+A, C, D
+D
+C
+A, C
+A, B, D
+A, D, E
+B
+A, C
+A, B, E
+A, C, E
+B, C, D, E
+A, C, E
+C, E
+D
+A, C
+A
+A, C, E
+B, C, E
+A, C, D
+A, B, D
+A, D, E
+D
+A, B, D
+C, D, E
+A, B, D, E
+B, D, E
+A, C, D
+A, D, E
+E
+B, C
+B, D
+A, C, D, E
+D
+A, C, E
+B
+D
+A, B, D
+A, B, C
+A, B, D, E
+B, C, D, E
+A, C, D
+A
+A, B, C, D
+A, B
+A, C
+A, C
+B, D
+A, C, D
+E
+B, C
+A, B, C, E
+D
+A, C
+A, D, E
+B
+B, D, E
+B, C, E
+A, C
+A, B, C
+A

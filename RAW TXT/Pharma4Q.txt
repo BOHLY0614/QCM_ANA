@@ -1,0 +1,699 @@
+1. L’administration par voie intraveineuse, caractéristique :
+a. voie parentérale sans résorption
+b. l’effet est le plus rapide
+c. sont administré les solutés irritants
+d. sont administrés les émulsions
+e. utile en urgences.
+
+2. La position d’aiguille, en administration donné par voie intra-dermique est :
+a. à 20°
+b. à 90°
+c. à 30°
+d. à 10-15°
+e. à 45°.
+
+3. Les inconvénients de l’administration des médicaments corticostéroïdes par inhalation :
+a. candidose oropharyngée
+b. n’évite pas l’effet du premier passage hépatique
+c. évite l’effet du premier passage hépatique [Note: Contexte ambigu dans source, probable erreur de copie]
+d. ralentisse la croissance chez les enfants
+e. ostéoporose (à long terme).
+
+4. Les solutés injectables administrées par voie intramusculaires sont :
+a. solutés aqueux hypertoniques
+b. solutés aqueux isotoniques
+c. suspensions aqueux
+d. solutés irritants
+e. émulsions.
+
+5. La fixation du médicament aux protéines est :
+a. réversible
+b. saturable
+c. dynamique
+d. spécifique
+e. non-spécifique.
+
+6. La réaction métabolique de la biotransformation des médicaments est :
+a. la réduction
+b. l’hydrolyse
+c. l’alkylation
+d. l’oxydation
+e. la désalkylation.
+
+7. Indiquez les effets secondaires toxiques des médicaments :
+a. à proprement parler
+b. idiosyncrasiques
+c. cancérigènes
+d. mutagènes
+e. tératogènes.
+
+8. Les effets caractéristiques de l’Atropine sont :
+a. bradycardie
+b. tachycardie
+c. hypotension artérielle
+d. mydriase
+e. bronchodilatation.
+
+9. Le traitement de l’intoxication atropinique inclue :
+a. Scopolamine
+b. Diazépam
+c. Oxazépam
+d. Propanthéline
+e. Physostigmine i.v.
+
+10. Sont médicaments sympathomimétiques indirectes :
+a. Éphédrine
+b. Adrénaline
+c. Noradrénaline
+d. Pseudoéphédrine
+e. Dopamine.
+
+11. Adrénaline :
+a. est une catécholamine endogène
+b. a une action sympathomimétique directe
+c. effet vasoconstricteur (à fortes doses, i.v.)
+d. produit bronchoconstriction
+e. effet inotrope négatif.
+
+12. Les suivantes sont utilisations thérapeutiques de la Dobutamine :
+a. l’insuffisance cardiaque aigue
+b. choc cardiogénique
+c. l’insuffisance cardiaque chronique
+d. la plupart des formes de choc
+e. états hypotensives aigues.
+
+13. Sont médicaments sympatholytiques directes alpha1-bloqueurs :
+a. Prazosine
+b. Térazosine
+c. Ergotamine
+d. Ergotoxine
+e. Doxazosine.
+
+14. Indiquez le médicament administré dans le traitement d’urgence de l’asthme, par voie parentérale :
+a. Terbutaline
+b. Salbutamol
+c. Salmétérol
+d. Formotérol
+e. Adrénaline.
+
+15. Indiquez les affirmations correctes concernant le bronchodilatateur sympathomimétiques β2-sélectifs :
+a. durée d’action courte : Salbutamol
+b. ?
+c. a durée d’action longue : Salmétérol
+d. administration par inhalation (nébuliseur-doseur)
+e. la tachyphilaxie est un effet secondaire.
+
+16. Les suivantes effets sont caractéristiques pour la Théophylline :
+a. stimulation du SNC
+b. bronchodilatation
+c. anti-inflammatoire forte
+d. stimulation cardiaque
+e. diurétique intense.
+
+17. Sont antitussifs opioïdes :
+a. Codéine
+b. Glaucine
+c. Paxeladine
+d. Clofedanole
+e. Morphine.
+
+18. L’antidote en cas de surdosage en paracétamol est :
+a. Atropine
+b. Physostigmine
+c. Bromhexine
+d. Acétylcystéine
+e. Flumazénil.
+
+19. Sont tonicardiaque non-digitaliques :
+a. Digoxine
+b. Dopamine
+c. Digitoxine
+d. Dobutamine
+e. Théophylline.
+
+20. Les effets cardiaques de la Digoxine sont :
+a. inotrope positif
+b. dromotrope négatif
+c. tonotrope négatif
+d. chromotrope positif
+e. batmotrope négatif.
+
+21. La voie d’administration du Digoxine en urgences est :
+a. perfusion i.v.
+b. intraveineuse
+c. intramusculaire
+d. orale
+e. intra-artérielle.
+
+22. Les effets des glycosides cardiaques sur ECG sont :
+a. dépression du segment S-T
+b. raccourcissement (diminution) du l’intervalle P-R
+c. allongement du l’intervalle Q-T
+d. inversion de l’onde P
+e. inversion de l’onde T.
+
+23. Sont médicaments anti-angineuses :
+a. Trinitrine
+b. Captopril
+c. Isosorbite dinitrate
+d. Nifédipine
+e. Énalapril.
+
+24. Les voies d’administration de la Trinitrine dans la crise d’angor sont :
+a. intraveineuse
+b. sublinguale, spray
+c. ?
+d. sublinguale, comprimé
+e. orale.
+
+25. Les effets secondaires des nitrates organiques sont :
+a. hypotension orthostatique
+b. bradycardie
+c. tolérance de type progressive
+d. céphalée pulsatile
+e. agitation.
+
+26. Les inhibiteurs du canal calcique ont les effets suivants :
+a. anti-angineuse
+b. inotrope positif
+c. antihypertensive
+d. antiarythmique
+e. contraction du muscle lisse vasculaire.
+
+27. La Quinidine bloque :
+a. le canal calcique
+b. le canal sodique et potassique
+c. le canal sodique
+d. le canal potassique
+e. le canal sodique et calcique.
+
+28. Sont des β-bloqueurs utilisés dans les arythmies :
+a. Propranolol
+b. Métoprolol
+c. Vérapamil
+d. Nadolol
+e. Pindolol.
+
+29. Sont affirmations correctes concernant la Lidocaïne :
+a. bloque les canaux potassiques
+b. a effet antiarythmique
+c. utile en arythmies auriculaires
+d. administration i.v.
+e. contre-indiquée en cas de bloc A-V.
+
+30. L’Amiodarone bloque le canaux :
+a. seulement potassiques
+b. seulement sodiques
+c. seulement sodiques et calciques
+d. seulement calciques
+e. potassiques, sodiques et calciques.
+
+31. Indiquez l’antihypertenseur utile en urgences hypertensives par perfusion i.v. :
+a. Minoxidil
+b. Énalapril
+c. Nifédipine
+d. Nitroprussiate de sodium
+e. Captopril.
+
+32. Les antihypertensives suivantes peuvent être administrées en HTA + diabète :
+a. Propranolol
+b. Captopril
+c. Énalapril
+d. Métoprolol
+e. Lisinopril.
+
+33. Les contre-indications d’emploie du Propranolol sont :
+a. asthme
+b. gastrite chronique
+c. bradycardie
+d. diabète
+e. tachycardie.
+
+34. Sont médicaments antihypertenseurs administrés par voie i.v. :
+a. Valsartan
+b. Furosémide
+c. Énalapril
+d. Diazoxide
+e. Hydralazine.
+
+35. Effets secondaires des IEC (inhibiteurs de l’enzyme de conversion de l’angiotensine) :
+a. toux sèche
+b. anorexie
+c. hTA
+d. hyperkaliémie
+e. palpitations.
+
+36. Les suivantes sont utilisation thérapeutiques des préparations de fer :
+a. carence en Vitamine B6
+b. anémie par carence en Vitamine B12
+c. anémie par carence en acide folique
+d. les femmes enceintes
+e. déficit d’absorption en fer.
+
+37. L’origine d’une carence en fer est due aux suivantes :
+a. ulcère gastrique
+b. alcoolisme
+c. hémorragies
+d. cancer gastrique
+e. insuffisance hépatique.
+
+38. La Vitamine B12 :
+a. est essentielle pour la synthèse d’ADN
+b. source alimentaire : légumes verts
+c. sa carence peut être liée à une atrophie gastrique
+d. utilisée en anémie pernicieuse
+e. est administré par voie i.v.
+
+39. L’action de l’héparine :
+a. fibrinolytique
+b. antithrombinique
+c. antiprothrombinique
+d. antiagrégate plaquettaire
+e. antithromboplastique.
+
+40. L’effet indésirable majeur de l’héparine est :
+a. urticaire
+b. choc anaphylactique
+c. anorexie
+d. saignements
+e. mycoses hémorragiques de la peau.
+
+41. Sont médicaments fibrinolytiques :
+a. Stréptokinase
+b. Clopidogrel
+c. Altéplase
+d. Rétéplase
+e. Ticlopidine.
+
+42. Indiquez le médicament activateur indirecte du plasminogène :
+a. Urokinase
+b. Rétéplase
+c. Altéplase
+d. Stréptokinase
+e. Ténectéplase.
+
+43. L’antiagrégant plaquettaire qui inhibe la cyclooxygénase 1 est :
+a. Dipyridamole
+b. Ticlopidine
+c. Acide acétylsalicylique
+d. Clopidogrel
+e. Abciximab.
+
+44. Sont médicaments anti-acides absorbés (systémiques) :
+a. Bicarbonate de sodium
+b. Hydroxyde d’aluminium
+c. Phosphate de sodium
+d. Phosphate d’aluminium
+e. Hydroxyde de magnésium.
+
+45. Bicarbonate de sodium, contre-indications en :
+a. hypertension artérielle
+b. insuffisance cardiaque
+c. grossesse
+d. insuffisance rénale
+e. insuffisance hépatique.
+
+46. Les antagonistes du récepteur H2 (effets secondaires) :
+a. gynécomastie
+b. constipation
+c. alcalose métabolique
+d. confusion
+e. fatigue.
+
+47. Les médicament le plus efficace pour le traitement du reflux gastro-oesophagien est :
+a. Pirenzépine
+b. Oméprazole
+c. Famotidine
+d. Ranitidine
+e. Nizatidine.
+
+48. Sont des médicaments protecteurs de la muqueuse gastrique :
+a. Sucralfate
+b. Lansoprazole
+c. Misoprostol
+d. Oméprazole
+e. Pantoprazole.
+
+49. Le protocole thérapeutique en triple thérapie pour l’élimination d’Helicobacter pylori inclue :
+a. Amoxicilline
+b. Oméprazole
+c. Lansoprazole
+d. Ampicilline
+e. Clarithromycine.
+
+50. Indiquez les antivomitifs utiles contre les vomissements post un traitement radiothérapique :
+a. Ondansétron
+b. Métoclopramide
+c. Tropisétron
+d. Dompéridone
+e. Dolasétron.
+
+51. Sont affirmations correctes concernant la Pénicilline V :
+a. a une action bactériostatique
+b. inhibe la synthèse de la paroi bactérienne
+c. spectre d’action étroit
+d. indiquée en angine streptococcique
+e. doive être administrée au moins une heure avant les repas.
+
+52. Benzathine – pénicilline (Extencilline) :
+a. réalise concentrations prolongées (jours)
+b. réalise concentrations durables (heures)
+c. utile pour le traitement en syphilis
+d. utile pour le traitement de la méningite
+e. douleur au lieu d’administration.
+
+53. Indiquez les pénicillines résistants aux beta-lactamases :
+a. Ampicilline
+b. Amoxicilline
+c. Oxacilline
+d. Pipéracilline
+e. Méthicilline.
+
+54. La pénicilline suivante a la résorption diminuée par alimentation :
+a. Pénicilline G
+b. Amoxicilline
+c. Ticarcilline
+d. Ampicilline
+e. Pipéracilline.
+
+55. Sont utilisations thérapeutiques de l’Ampicilline à fortes doses :
+a. méningite
+b. pharyngite
+c. endocardites
+d. angine
+e. sinusite.
+
+56. Indiquez la pénicilline administré seulement par voie parentérale :
+a. Pipéracilline
+b. Oxacilline
+c. Ampicilline
+d. Cloxacilline
+e. Amoxacilline.
+
+57. Sont pénicillines associés à un inhibiteur de beta-lactamase :
+a. Ampicilline
+b. Oxacilline
+c. Ticarcilline
+d. Dicloxacilline
+e. Pipéracilline.
+
+58. Le spectre d’action des CÉF de troisième génération peut englober les spectre de :
+a. Pénicilline V
+b. Oxacilline
+c. Ampicilline
+d. Vancomycine
+e. Métronidazole.
+
+59. Les aminosides de deuxième génération sont :
+a. Gentamycine, Tobramycine
+b. bactériostatiques, spectre large d’action
+c. utiles en septicémies, endocardites, en association avec des pénicillines
+d. administrés par voie parentérale
+e. utiles en tuberculose.
+
+60. Clarithromycine est active contre :
+a. Helicobacter Pylori
+b. Toxoplasma gondii
+c. Germes anaérobies
+d. Mycobacterium avium
+e. Salmonella typhy.
+
+61. La Doxycycline a les caractéristiques :
+a. résorption orale influencer par les antiacides (avec Ca, Mg)
+b. active contre : les richetsies, chlamydies, Mycoplasmes
+c. est administrée toutes les 6 heures
+d. est administrée une ou deux fois par jour
+e. peut être administrée par voie intraveineuse.
+
+62. La voie d’administration pour l’Azithromycine est :
+a. i.v.
+b. i.m.
+c. locale
+d. orale
+e. sous-cutanée.
+
+63. Les fluoroquinolones sont utilisés en :
+a. pneumonies atypiques
+b. infection gonococciques
+c. la fièvre typhoïde
+d. infections des voie urinaires
+e. infections streptococciques.
+
+64. Sont substances antibactériennes contre-indiqués en grossesse :
+a. Pénicilline G
+b. Pénicilline V
+c. Chloramphénicol
+d. Tétracycline
+e. Métronidazole.
+
+65. Le Thiopental :
+a. est un anesthésique général i.v.
+b. facilite les actions inhibitoires du GABA
+c. produit un forte relâchement musculaire
+d. recommandable ches les maladies ayant un œdème cérébral
+e. ne produit pas analgésie.
+
+66. Procaïne, caractéristiques pharmacodynamiques :
+a. anesthésique local de contact
+b. anesthésique local de profondeur
+c. vasoconstricteur
+d. analgésique efficace
+e. vasodilatateur.
+
+67. Les contre-indications de la morphine sont :
+a. enfants moins de 3 ans
+b. HTA
+c. l’asthme bronchique
+d. grossesse
+e. insuffisance rénale.
+
+68. La Méthadone, utilisations thérapeutiques :
+a. douleurs sévères
+b. douleurs persistantes
+c. douleurs chroniques
+d. en préanesthésie
+e. dans la désintoxication des toxicomanes à la morphine.
+
+69. Indiquez l’effet secondaire spécifique pour le Tramadol :
+a. constipation
+b. prurit
+c. urticaire
+d. rétention urinaire
+e. sensations vertigineuses.
+
+70. Le Métamizole :
+a. anti-inflammatoire
+b. est le plus puissant des analgésiques-antipyrétiques
+c. peut produire agranulocytose (très rare)
+d. hépatotoxique
+e. ulcérogène.
+
+71. Sont AINS inhibiteurs préférentiels de la COX2 :
+a. Diclofenac
+b. Méloxicam
+c. Ibuprofène
+d. Nimésulide
+e. Kétoprofène.
+
+72. Contre-indications des AINS :
+a. ulcère gastro-duodénal
+b. hTA
+c. grossesse
+d. allaitement
+e. enfant moins de 15 ans (Aspirine).
+
+73. L’antidote en cas de surdosage aux benzodiazépines est :
+a. Nalorphine
+b. Naloxone
+c. Acétylcystéine
+d. Flumazénil
+e. Flunitrazépam.
+
+74. Sédatifs-hypnotiques barbituriques :
+a. effet hypnotique
+b. effet anxiolytique
+c. effet anticonvulsive (Phénobarbital)
+d. effet anticonvulsive (Cyclobarbital)
+e. inducteurs enzymatiques.
+
+75. L’anxiolytique benzodiazépique préfére pour les patients âgés est :
+a. Diazépam
+b. Bromazépam
+c. Lorazépam
+d. Médazépam
+e. Alprazolam.
+
+76. Indiquez lequel est un anxiolytique sélectif :
+a. Oxazépam
+b. Bromazépam
+c. Diazépam
+d. Buspirone
+e. Midazolam.
+
+77. Le syndrome parkinsonien est absente pour les neuroleptiques suivantes :
+a. Rispéridone
+b. Olanzapine
+c. Halopéridol
+d. Clozapine
+e. Fluphénazine.
+
+78. Effets secondaires des antidépresseurs imipraminiques sont :
+a. somnolence
+b. constipation
+c. retard mictionnel
+d. HTA
+e. mydriase.
+
+79. Sont antiépileptiques :
+a. Phénytoïne
+b. Phénobarbital
+c. Cyclobarbital
+d. Carbamazépine
+e. Acide valproïque.
+
+80. Lévodopa :
+a. le dopamine est son précurseur
+b. miosis
+c. utile en maladie de Parkinson
+d. peut produire la fluctuation de l’effet (le phénomène “on-off”)
+e. contre-indication, psychoses.
+
+81. Effets endocriniens de l’insuline sur le foie :
+a. inhibe la glycogénolyse
+b. diminue la synthèses des triglycérides
+c. inhibe la transformation des acides amines en acides cétoniques
+d. inhibe la transformation des acides aminée en glucose
+e. diminue la formation des lipoprotéines (VLDL).
+
+82. Le seule type d’insuline administrée par voie intraveineuse est :
+a. d’action rapide et durée courte d’effet
+b. d’action courte, avec un survenue rapide de l’effet
+c. d’action intermédiaire
+d. d’action lente
+e. d’action ultra lentes.
+
+83. Indiquez les affirmations correctes concernant l’utilisation de l’insuline :
+a. en diabète gestationnel
+b. en coma diabétique, i.v.
+c. sous forme de stylos injectables portables
+d. la forme retard, le soir
+e. la forme retard, le matin.
+
+84. Indiquez les antidiabétiques oraux associés avec Metformine dans le même comprimé :
+a. Glibenclamide
+b. Rosiglitazone
+c. Pioglitazone
+d. Tolbutamide
+e. Glipizide.
+
+85. Sont glucocorticoïdes avec une durée courte ou moyenne :
+a. Prednisone
+b. Budésonide
+c. Hydrocortisone
+d. Bêtaméthasone
+e. Dexaméthasone.
+
+86. Sont effets des glucocorticoïdes de type minéralocorticoïdes :
+a. rétention du sodium
+b. élimination du chlore
+c. rétention d’eau
+d. élimination urinaire de potassium
+e. rétention du potassium.
+
+87. Effets secondaires tardives de glucocorticoïdes :
+a. ulcère gastro-duodénale
+b. obésite du tronc
+c. hypoglycémie
+d. visage arrondi
+e. risque d’hyperkaliémie.
+
+88. Sont contre-indications des hormones thyroïdiennes :
+a. hyperthyroïdie
+b. insuffisance rénale
+c. insuffisance cardiaque décompensée
+d. angine de poitrine décompensée
+e. HTA.
+
+89. Les médicaments antithyroïdiens les plus utilizes sont :
+a. Iodures
+b. Inhibiteurs amioniques
+c. β-bloqueurs
+d. Iode radioactif
+e. Thionamides.
+
+90. Indiquez les agents actives contre le virus VIH :
+a. Foscarnet
+b. Zidovudine
+c. Zalcitabine
+d. Aciclovir
+e. Ganciclovir.
+
+91. Les interférons, pharmacodynamie :
+a. antivirale, hépatite B chronique
+b. antivirale, hépatite C aiguë
+c. immunomodulatrice
+d. immunodépresseur
+e. antiprolifératives.
+
+92. L’agent antifungique avec le plus large spectre d’action est :
+a. Griséofulvine
+b. Kétoconazole
+c. Éconazole
+d. Amphotéricine B
+e. Clotrimazole.
+
+93. Indiquez les antifongiques utilisés en aspergillose :
+a. Voriconazole
+b. Oxiconazole
+c. Nystatine
+d. Itraconazole
+e. Griséofulvine.
+
+94. Agents actives contre les nématodes intestinales sont :
+a. Pipérazine
+b. Niclosamide
+c. Diéthylcarbamazine
+d. Albendazole
+e. Thiabendazole.
+
+95. Indiquez l’agent utilisé en tuberculose lequel produit une coloration en rouge/orange des fluides corporels :
+a. Éthambutol
+b. Rifampicine
+c. Isoniazide
+d. Pyrazinamide
+e. Amikacine.
+
+96. Pyrazinamide :
+a. action bactériostatique contre le M. tuberculosis
+b. action bactéricide contre le M. tuberculosis
+c. administration parentérale
+d. de première choix en association avec autres agents antituberculeux
+e. hépatotoxique.
+
+97. Les médicaments anticancéreux, présentent risque de suivantes effets communes :
+a. ototoxique
+b. mutagène
+c. carcinogène
+d. néphrotoxique
+e. tératogène.
+
+98. Sont cytostatiques qui agit comme “une poison du fuseau” mitotique :
+a. Paclitaxel
+b. Tamoxifène
+c. Vincristine
+d. Méthotrexate
+e. Cytarabine.
+
+99. Méthotrexate :
+a. analogue structural de l’acide folique
+b. effet secondaire, symptômes de la ménopause
+c. son effet peut être inhibée en présence de l’acide folique
+d. utile en cancer du testicule
+e. utile en cancer du poumon.
+
+100. L’agent cytostatique utilisé en particulier pour le cancer du testicule est :
+a. Cisplatine
+b. Ifosfamide
+c. Cyclophosphamide
+d. Melphalan
+e. Vincristine.
